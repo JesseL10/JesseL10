@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studing in HUST (Huazhong University of Science and Technology)
+- 🔭 I’m currently a junior student in HUST (Huazhong University of Science and Technology)
 - 🌱 I’m currently learning Computer Vision in AI
 - 💬 Ask me about anything you like
 - 📫 How to reach me: jesselii2001@gmail.com
